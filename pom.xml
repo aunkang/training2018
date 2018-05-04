@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.orcsoft</groupId>
-  <artifactId>humansoft</artifactId>
+  <artifactId>humansoft456</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>humansoft Maven Webapp</name>
@@ -22,6 +22,6 @@
 	</dependency>
   </dependencies>
   <build>
-    <finalName>humansoft</finalName>
+    <!-- <finalName>humansoft</finalName> -->
   </build>
 </project>
